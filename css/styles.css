@@ -29,6 +29,10 @@ a, a:hover, a:active, a:visited {
   text-indent: -9999px;
 }
 
+.header img {
+  max-width: 370px;
+}
+
 .content {
   background: #fbba2f;
   height:360px;
