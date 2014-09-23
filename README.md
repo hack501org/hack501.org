@@ -1,4 +1,4 @@
 hack501.org
 ===========
 
-Main website for [http://hack501.org](hack501.org) summer fellowship program. 
+Main website for [hack501.org](http://hack501.org) summer fellowship program. 
