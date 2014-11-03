@@ -85,8 +85,8 @@ a, a:hover, a:active, a:visited {
   }
 }
 
-p.email {
-  margin-top:20px;
+.email {
   font-size: 18px;
   font-weight:bold;
+  text-align:right;
 }
